@@ -13,15 +13,15 @@ const UserDetails: React.FC<userProps> = ({ currColor }) => {
             <div className='flex flex-col gap-5'>
                 <div className='flex justify-between mx-3 text-[14px]'>
                     <p>Name</p>
-                    <p>Orlando</p>
+                    <p>Vikas</p>
                 </div>
                 <div className='flex justify-between mx-3 text-[14px]'>
                     <p>Contact No</p>
-                    <p>+53 4245252354</p>
+                    <p>+91 8909389493</p>
                 </div>
                 <div className='flex justify-between mx-3 text-[14px]'>
                     <p>Email ID</p>
-                    <p>orladom@gmail.com</p>
+                    <p>vikas23@gmail.com</p>
                 </div>
                 <div className='flex justify-between mx-3 text-[14px]'>
                     <p>Linkedin</p>
